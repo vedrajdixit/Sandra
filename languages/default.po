@@ -1,0 +1,3384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KidsZone WP Theme\n"
+"POT-Creation-Date: 2014-02-05 18:10+0530\n"
+"PO-Revision-Date: 2014-02-05 18:10+0530\n"
+"Last-Translator: DesignThemes <ram@iamdesigning.com>\n"
+"Language-Team: designthemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\kidszone\\wp-content\\themes"
+"\\kidszone\n"
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/404.php:11
+msgid "Lost"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/404.php:25
+msgid "404!"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/404.php:26
+msgid "Page not Found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:11
+msgid "Category Archives of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:12
+msgid "Daily Archives of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:13
+msgid "Monthly Archives of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:14
+msgid "Yearly Archives of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:15
+msgid "Archive by Author : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:16
+msgid "Tag Archives of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/archive.php:17
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:117
+msgid "Archive of : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:28
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:35
+msgid "No Comments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:28
+msgid "Comment (1)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:28
+msgid "Comments (%)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:48
+msgid "Comment"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/comments.php:50
+msgid "Reply"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/functions.php:21
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/header.php:40
+msgid "Call"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/header.php:52
+msgid "Sign in (or) Logout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/page.php:33
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/single.php:106
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-blog.php:31
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-events.php:19
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-feature.php:69
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-gallery.php:31
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-home.php:23
+msgid "Pages:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/page.php:34
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/single.php:107
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-blog.php:35
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-events.php:20
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-feature.php:70
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-gallery.php:35
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/tpl-home.php:24
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:775
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:803
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:303
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:328
+msgid "Edit"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/search.php:11
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/searchform.php:3
+msgid "Enter Keyword"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/single.php:52
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:228
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:265
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:423
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/archive-post-layout.php:72
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/blog-post-layout.php:78
+msgid "Featured"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/single.php:135
+msgid "About the Author"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:209
+msgid "Select Post"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:245
+msgid "Select Product"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:267
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:478
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:600
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:614
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:116
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:34
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:532
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:614
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:110
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:31
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:31
+msgid "Select"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:298
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:29
+msgid "Select Page"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:329
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:351
+msgid "Select Category"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:576
+msgid "Pattern"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:577
+msgid "Custom Background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:578
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:102
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:111
+msgid "None"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/admin_utils.php:581
+msgid "Background Type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:164
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:160
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:165
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:161
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:166
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:162
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:178
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:490
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:174
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:179
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1846
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:175
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:517
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1956
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1956
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:50
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:101
+msgid "Save All"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:51
+msgid "Saving ..."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:52
+msgid "This will restore all of your options to default. Are you sure?"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:53
+msgid ""
+"You are going to import the dummy data provided with the theme, kindly "
+"confirm?"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:54
+msgid ""
+"Importing is disabled.. :), Please set Disable Import to NO in Buddha Panel "
+"General Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:55
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:56
+msgid "Your options are backuped successfully"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:57
+msgid "Backup Process not working"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:58
+msgid ""
+"Warning: All of your current options will be replaced with the data from "
+"your last backup! Proceed?"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:59
+msgid "Your options are restored from previous backup successfully"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:60
+msgid "Restore Process not working"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:61
+msgid "Click ok import options from the above textarea"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:62
+msgid "Your options are imported successfully"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:63
+msgid "Import Process not working"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:87
+msgid "Error: Options not saved, please try again."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:93
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_admin.php:95
+msgid "Options Saved."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:48
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:52
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:64
+msgid "sub item"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:96
+msgid "Edit Menu Item"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:104
+msgid "URL"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:111
+msgid "Navigation Label"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:117
+msgid "Title Attribute"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:124
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:129
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:135
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:141
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:24
+msgid "Description"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:143
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:193
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:152
+msgid "Use As Mega Menu"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:160
+msgid "Disable Text"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:168
+msgid "Disable Link"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:176
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:183
+msgid "Icon Class (eg: fa-home)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:191
+msgid "Custom Content"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:200
+msgid "Sub Menu Column Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:206
+msgid "Select where to align the submenu."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:215
+msgid "Move"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:216
+msgid "Up one"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:217
+msgid "Down one"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:220
+msgid "To the top"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:227
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:240
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:583
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:35
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:56
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:82
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:313
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:335
+msgid "Remove"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_custom_attributes_in_menu.php:241
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:78
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:315
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:337
+msgid "Cancel"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:73
+msgid "Delete Permanently"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:75
+msgid "Delete"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:76
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:77
+msgid "Continue"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:81
+msgid "Move to Trash"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_media_uploader.php:82
+msgid "Undo"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:163
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_plugins.php:176
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:63
+#, php-format
+msgid "View all products under %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:773
+msgid "Pingback:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:794
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:799
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:801
+msgid "reply"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:827
+msgid "Home"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:897
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:963
+msgid "Forums"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:901
+msgid "Forum"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:919
+msgid "Archive for Category: "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:924
+msgid "Archive for Author: "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:928
+msgid "Archive for Tag: "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:932
+msgid "LOST"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:936
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:8
+msgid "Search"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:959
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:10
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:115
+msgid "Products"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:1010
+msgid "Select Your Style"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:1012
+msgid "Choose your layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:1019
+msgid "Patterns for Boxed Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/register_public.php:1026
+msgid "Color scheme"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:5
+msgid "Show Google+ One"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:7
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:74
+msgid "Standard"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:8
+msgid "Small"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:9
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:83
+msgid "Medium"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:10
+msgid "Tall"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:12
+msgid "Arabic"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:13
+msgid "Bengali"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:14
+msgid "Bulgarian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:15
+msgid "Catalan"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:16
+msgid "Chinese"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:17
+msgid "Chinese (China)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:18
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:19
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:20
+msgid "Croation"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:21
+msgid "Czech"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:22
+msgid "Danish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:23
+msgid "Dutch"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:24
+msgid "English (India)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:25
+msgid "English (Ireland)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:26
+msgid "English (Singapore)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:27
+msgid "English (South Africa)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:28
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:29
+msgid "Filipino"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:30
+msgid "Finnish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:31
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:117
+msgid "French"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:32
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:118
+msgid "German"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:33
+msgid "German (Switzerland)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:34
+msgid "Greek"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:35
+msgid "Gujarati"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:36
+msgid "Hebrew"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:37
+msgid "Hindi"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:38
+msgid "Hungarian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:39
+msgid "Indonesian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:40
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:119
+msgid "Italian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:41
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:120
+msgid "Japanese"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:42
+msgid "Kannada"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:43
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:121
+msgid "Korean"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:44
+msgid "Latvian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:45
+msgid "Lingala"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:46
+msgid "Lithuanian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:47
+msgid "Malay"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:48
+msgid "Malayalam"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:49
+msgid "Marathi"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:50
+msgid "Norwegian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:51
+msgid "Oriya"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:52
+msgid "Persian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:53
+msgid "Polish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:54
+msgid "Portugese (Brazil)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:55
+msgid "Portugese (Portugal)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:56
+msgid "Romanian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:57
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:122
+msgid "Russian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:58
+msgid "Serbian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:59
+msgid "Slovak"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:60
+msgid "Slovenian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:61
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:123
+msgid "Spanish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:62
+msgid "Swedish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:63
+msgid "Swiss German"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:64
+msgid "Tamil"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:65
+msgid "Telugu"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:66
+msgid "Thai"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:67
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:124
+msgid "Turkish"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:68
+msgid "Ukranian"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:69
+msgid "Vietnamese"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:72
+msgid "Show Facebook like"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:75
+msgid "Box Count"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:76
+msgid "Button Count"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:80
+msgid "Show Digg"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:82
+msgid "Wide"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:84
+msgid "Compact"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:85
+msgid "Icon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:88
+msgid "Show Stumbleupon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:90
+msgid "style1"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:91
+msgid "style2"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:92
+msgid "style3"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:93
+msgid "style4"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:94
+msgid "style5"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:95
+msgid "style6"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:97
+msgid "Show LinkedIn"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:101
+msgid "Show Pintrest"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:102
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:112
+msgid "Vertical"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:102
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:113
+msgid "Horizontal"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:105
+msgid "Show Delicious"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/social_media.php:109
+msgid "Show Twitter"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_features.php:94
+msgid "Primary Menu"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_features.php:95
+msgid "Secondary Menu"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:8
+msgid "Thanks for Contacting Us, We will call back to you soon."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:9
+msgid "Sorry your message not sent, Try again Later."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:16
+msgid "Name *"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:17
+msgid "Email *"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:18
+msgid "Subject"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:21
+msgid "Message *"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:22
+msgid "Submit"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:290
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:310
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:818
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:1024
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/archive-post-layout.php:144
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/blog-post-layout.php:159
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/gallery-post-layout.php:125
+msgid "Nothing Found."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:311
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:819
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:1025
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/archive-post-layout.php:145
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/blog-post-layout.php:160
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/gallery-post-layout.php:126
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:340
+msgid "Contact Info"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:555
+msgid "Tweet"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:584
+msgid "Delicious"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:596
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:600
+msgid "Pin It"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:600
+msgid "Pin It on Pinterest"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:656
+msgid "Save"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_shortcodes.php:756
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:284
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:445
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/includes/gallery-post-layout.php:65
+msgid "All"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/utils.php:138
+msgid "Search results for"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/utils.php:153
+msgid "Page not found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/utils.php:373
+msgid "Footer Column"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/utils.php:710
+msgid "of"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:3
+msgid "Slider Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:4
+msgid "Default page Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:17
+msgid "Show Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:24
+msgid "YES! to show slider on this page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:31
+msgid "Choose Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:35
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:62
+msgid "Layer Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:36
+msgid "Revolution Responsive"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:46
+msgid "Choose which slider you wish to use ( eg: Layer or Revolution )"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:75
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:107
+msgid "Select LayerSlider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:79
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:111
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:139
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:143
+msgid "Select Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:89
+msgid "Choose Which LayerSlider you would like to use.."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:95
+msgid "Please add atleat one layer slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:119
+msgid "Choose which LayerSlider would you like to use!"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:126
+msgid "Please activate Layered Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:133
+msgid "Revolution Slider"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:151
+msgid "Choose which Revolution slider would you like to use!"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:157
+msgid "Please activate Revolution Slider , and add at least one slider."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:178
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:16
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:475
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:150
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:312
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:26
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:48
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:70
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:93
+msgid "Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:191
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:29
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:198
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:64
+msgid "Disable Every Where Sidebar"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:205
+msgid "Yes! to hide \"Every Where Sidear\" on this page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:213
+msgid "Menu Icon Class"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:218
+msgid "Icon class for this page( eg: fa-desktop )"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:229
+msgid "Allow Comments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:236
+msgid "YES! to allow comments on this page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:244
+msgid "Full Width Section"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:249
+msgid "This content will appear in full width"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:259
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:398
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:20
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:36
+msgid "Posts Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:263
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:92
+msgid "Single post per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:264
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:402
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:92
+msgid "Two posts per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:265
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:403
+msgid "Three posts per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:273
+msgid "Choose layout style for your Blog"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:280
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:441
+msgid "Post per page"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:290
+msgid "Your blog pages show at most selected number of posts per page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:297
+msgid "Allow Excerpt"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:304
+msgid "Enable Excerpt"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:311
+msgid "Excerpt Length"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:316
+msgid ""
+"Limit! Number of charectors from the content to appear on each blog post "
+"(Number Only)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:322
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:77
+msgid "Post Meta Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:325
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:80
+msgid "Disable the Author info."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:326
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:81
+msgid ""
+"By default the author info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:329
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:84
+msgid "Disable the date info."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:330
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:85
+msgid ""
+"By default the date info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:334
+msgid "Disable the comment"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:335
+msgid ""
+"By default the comment will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:339
+msgid "Disable the category"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:340
+msgid ""
+"By default the category will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:344
+msgid "Disable the tag"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:345
+msgid ""
+"By default the tag will display when viewing your posts. You can choose to "
+"disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:374
+msgid "Exclude Categories"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:389
+msgid "You can choose certain categories to exclude from your blog page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:404
+msgid "Four Posts per row"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:412
+msgid "Choose layout style for your Gallery"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:420
+msgid "Type of Posts Design"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:423
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:115
+msgid "Default"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:424
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:116
+msgid "Shape One"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:425
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:117
+msgid "Shape Two"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:426
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:118
+msgid "Shape Three"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:434
+msgid "Your gallery posts show with choosen shape."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:451
+msgid "Your gallery pages show at most selected number of posts per page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:457
+msgid "Allow Filters"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:464
+msgid "Allow filter options for gallery items"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:470
+msgid "Choose Categories"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/page_metabox.php:485
+msgid "You can choose only certain categories to show in gallery items. "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:3
+msgid "Post Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:4
+msgid "Post Format Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:36
+msgid "Disable Comments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:43
+msgid "YES! to disable Comments."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:50
+msgid "Disable Featured Image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:57
+msgid "YES! to disable featured image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:71
+msgid "YES! to disable Every Where Sidebar"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:89
+msgid "Disable the comment info."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:90
+msgid ""
+"By default the comment info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:94
+msgid "Disable the category info."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:95
+msgid ""
+"By default the category info will display when viewing your posts. You can "
+"choose to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:99
+msgid "Disable the tag info."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:100
+msgid ""
+"By default the tag info will display when viewing your posts. You can choose "
+"to disable it here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:137
+msgid "Image Gallery"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:141
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:178
+msgid "oEmbed URL"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:182
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This "
+"setting is used for your video and audio post formats."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:187
+msgid "Self Hosted URL"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/post_metabox.php:191
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:6
+msgid "SEO Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:15
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:6
+msgid "Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:19
+msgid ""
+"The title display in search engines is limited to 70 chars. If the SEO title "
+"is empty the title will be generated based on your title template in your "
+"SEO settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:28
+msgid ""
+"The meta description will be limited to 140 chars. If the meta description "
+"is empty the description <br> will be generated based on your meta "
+"description options in your SEO settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:33
+msgid "Keywords"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_metaboxes/seo_metabox.php:37
+msgid "Add any additional comma separated keywords here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:7
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:24
+msgid "Header"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:8
+msgid "Menu"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:9
+msgid "Body"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:10
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:7
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:16
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:43
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:57
+msgid "Footer"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:11
+msgid "Typography"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:12
+msgid "Layout & BG"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:22
+msgid "Choose Header"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:25
+msgid "Choose the header type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:48
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:87
+msgid "Menu Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:52
+msgid "Disable Menu Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:54
+msgid "Enable or Disable Menu section apperance settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:64
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:144
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:418
+msgid "Choose Font Type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:69
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:149
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:243
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:297
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:423
+msgid "Choose which type font."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:78
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:158
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:252
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:306
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:431
+msgid "Standard Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:81
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:161
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:255
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:309
+msgid "Sample Title Font Style"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:88
+msgid "Choose the menu font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:95
+msgid "Menu Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:102
+msgid "Primary / Default Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:105
+msgid "Pick a custom primary color for the menu e.g. #564912"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:112
+msgid "Hover Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:115
+msgid "Pick a custom hover state color for the menu e.g. #564912"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:129
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:168
+msgid "Body Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:133
+msgid "Disable Body Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:135
+msgid "Enable or Disable Body apperance settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:170
+msgid "Choose the body font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:179
+msgid "Body Font Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:182
+msgid "Pick a custom font color for body/content e.g. #a314a3"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:188
+msgid "Body Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:194
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:344
+msgid "Primary / Default Color for Links"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:197
+msgid ""
+"Pick a custom primary color to links and buttons for body/content e.g. "
+"#551256"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:204
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:354
+msgid "Hover Color for Links"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:207
+msgid ""
+"Pick a custom hover state color to links and buttons for body/content e.g. "
+"#564912"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:223
+msgid "Footer Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:227
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:228
+msgid "Disable Footer Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:229
+msgid "Enable or Disable Footer apperance settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:238
+msgid "Choose Footer Title Font Type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:261
+msgid "Footer Title Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:264
+msgid "Choose the footer font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:272
+msgid "Footer Title Font Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:275
+msgid "Pick a custom footer title font color to the theme e.g. #a314a3"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:282
+msgid "Footer Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:292
+msgid "Choose Footer Content Font Type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:315
+msgid "Footer Content Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:318
+msgid "Choose the footer content font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:327
+msgid "Footer Content Font Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:330
+msgid "Pick a custom font color for footer content e.g. #a314a3"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:337
+msgid "Footer Content Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:347
+msgid "Pick a custom primary color for links in footer e.g. #551256"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:357
+msgid "Pick a custom color for footer links hover state e.g. #564912"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:366
+msgid "Footer BG Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:369
+msgid ""
+"Pick a custom background color of the theme's footer section.(e.g. #a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:375
+msgid "Copyright Section BG Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:378
+msgid ""
+"Pick a custom background color of the theme's copyright section.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:397
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:401
+msgid "Disable Typography Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:403
+msgid "Enable or Disable the typography settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:409
+msgid "Font Family, Size and Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:413
+msgid "Choose Font Family, Size and Color for"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:434
+msgid "Standard Font Style"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:440
+msgid "Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:450
+msgid "Font Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:457
+msgid "Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:471
+msgid "Choose Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:476
+msgid "Choose the Layout Style(Boxed / Fullwidth)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:497
+msgid "Boxed Layout BG Background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:508
+msgid "Choose Patterns"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:522
+msgid ""
+"Choose background pattern, you can add patterns by placing the png files in "
+"the folder "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:529
+msgid "Boxed Layout Background Pattern repeat"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:539
+msgid "Select how would you like to repeat the pattern image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:547
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:626
+msgid "Disable Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:554
+msgid "Choose Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:557
+msgid "Pick a custom background color of the theme.(e.g. #a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:567
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:644
+msgid "Background opacity"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:577
+msgid "Boxed Layout Background Image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:582
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:34
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:55
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:81
+msgid "Upload"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:586
+msgid "Upload an image for the theme's background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:594
+msgid "Background Image Repeat"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:595
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:601
+msgid "Background Image Position"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:602
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:634
+msgid "Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/appearance.php:637
+msgid "Pick a background color of the theme.(e.g. #a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:6
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:48
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:62
+msgid "Backup"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:13
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:15
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:17
+msgid "No backups yet"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:18
+msgid "Last Backup : "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:22
+msgid "Backup Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:23
+msgid "Restore Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:27
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:29
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click 'Import "
+"Options'"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/backup.php:45
+msgid "Import Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:6
+msgid "Admin"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:16
+msgid "Buddha Panel Logo"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:20
+msgid "Replace Buddha Panel Logo"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/branding.php:39
+msgid ""
+"Upload an image to replace the default buddha panel logo.<b><i>You can set "
+"your own brnad</i></b>. "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:23
+msgid "Show Footer"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:30
+msgid "Footer Column Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:31
+msgid "Select a perfect column layout style for your theme's footer."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:50
+msgid "Show Copyright Text"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:57
+msgid "Copyright Text"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/footer.php:60
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:7
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:6
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:37
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:52
+msgid "General"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:8
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:270
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:327
+msgid "Sociable"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:17
+msgid "Logo"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:26
+msgid "Custom Image Logo"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:27
+msgid "Display Site Title <small><a href=\""
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:47
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:60
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:66
+msgid "Favicon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:69
+msgid "Enable Favicon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:84
+msgid "Upload a favicon for your theme, or specify the oneline URL for favicon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:88
+msgid "Others"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:91
+msgid "Enable Sticky Navigation"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:102
+msgid "YES! to enable sticky navigation."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:107
+msgid "Globally Disable Comments on Pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:118
+msgid ""
+"YES! to disable comments on all the pages. This will globally override your "
+"\"Allow comments\" option under your page \"Discussion\" settings. "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:122
+msgid "Globally Disable Comments on Posts"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:132
+msgid ""
+"YES! to disable comments on all the posts. This will globally override your "
+"\"Allow comments\" option under your post \"Discussion\" settings. "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:136
+msgid "Globally Disable Comments on Galleries"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:145
+msgid "Enable/ Disable comments on gallery pages."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:149
+msgid "Globally Disable Breadcrumbs"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:157
+msgid "show / Hide Breacrumbs globally on sitewide"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:162
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:170
+msgid "This is the symbol that will appear in between your breadcrumbs"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:173
+msgid "Disable Top Bar"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:183
+msgid "YES! to disable header top bar. "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:187
+msgid "Top Contact Number"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:192
+msgid "Specify top bar phone no in above fields."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:196
+msgid "Disable Browser Custom Scroll"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:204
+msgid "Check if you do not want disable the browser custom scrollbar."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:208
+msgid "Disable Style Picker"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:216
+msgid "Check if you do not want disable the style picker."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:220
+msgid "Disable Import Dummy Content"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:228
+msgid "YES! to hide Import Dummy Data button from the Adminpanel."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:232
+msgid "Google Font Subset"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:238
+msgid ""
+"Specify which subsets should be downloaded. Multiple subsets should be "
+"separated with comma."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:244
+msgid ""
+"Some of the fonts in the Google Font Directory supports multiple scripts "
+"(like Latin and Cyrillic for example). In order to specify which subsets "
+"should be downloaded the subset parameter should be appended to the URL. For "
+"a complete list of available fonts and font subsets please see"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:250
+msgid "Mailchimp API KEY"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:256
+msgid "Paste your mailchimp api key that will be used by the mailchimp widget."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:275
+msgid "Show Sociable"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:284
+msgid "Add New Sociable"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:287
+msgid "Manage Social Network icons list to display"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:306
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:332
+msgid "Sociable Icon"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:308
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/general.php:333
+msgid "Sociable Link"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:7
+msgid "Post"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:8
+msgid "Page"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:9
+msgid "Gallery"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:16
+msgid "Add Code Inside the &lt;head&gt"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:17
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your site. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:20
+msgid "Enable Header Code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:23
+msgid "Add Code above &lt;/body&gt;"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:24
+msgid ""
+"You can paste your Google Analytics or other website tracking codes in this "
+"box. This will be automatically added above the &lt;/body&gt; tag."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:27
+msgid "Enable Body Code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:30
+msgid "Custom CSS"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:31
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:34
+msgid "Enable Custom CSS"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:71
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:72
+msgid ""
+"Place any codes to show on top of all single post. This is useful if you are "
+"looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:75
+msgid "Enable single post top code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:78
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:79
+msgid ""
+"Place any codes to show on bottom of all single post. This is useful if you "
+"are looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:82
+msgid "Enable single post bottom code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:117
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:279
+msgid "Social Shares"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:121
+msgid "Manage social share options and its layout to show in the blog post."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:140
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:303
+msgid "Username"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:161
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:323
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:172
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:334
+msgid "Language"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:183
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:345
+msgid "Default Text"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:202
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:365
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:394
+msgid "Social Bookmark"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:205
+msgid ""
+"Manage social media bookmark options and its layout to show in the blog post"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:235
+msgid "Add code to the top of your pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:236
+msgid ""
+"Place any codes to show on top of all single page. This is useful if you are "
+"looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:239
+msgid "Enable single page top code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:242
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:243
+msgid ""
+"Place any codes to show on bottom of all single page. This is useful if you "
+"are looking to integrate things such as social bookmarking links, AD etc.,."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:246
+msgid "Enable single page bottom code"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:284
+msgid "Manage social share options and its layout to show in the page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:367
+msgid ""
+"Manage social media bookmark options and its layout to show in the page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/integration.php:397
+msgid ""
+"Manage social media bookmark options and its layout to show in the gallery."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/menu.php:12
+msgid "settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/menu.php:15
+msgid "options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/menu.php:15
+msgid "Options"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:6
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:13
+msgid "Responsive"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:18
+msgid "Make My Site Responsive"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:23
+msgid "Choose whether you need responsive version for your website"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:29
+msgid "Disable Slider for Mobile Devices"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/responsive.php:34
+msgid ""
+"Choose whether you wish to hide / display the slider area of your website on "
+"mobile devices"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:7
+msgid "Meta"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:14
+msgid "Title Formats"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:19
+msgid "Title Delimiter"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:27
+msgid ""
+"This is the symbol that will appear on the browser and Search engine title. "
+"Some common examples would be : | /  - , ::"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:35
+msgid "Post Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:38
+msgid "Choose Post Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:39
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:51
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:62
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:70
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:79
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:88
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:97
+msgid "Blog Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:39
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:51
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:62
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:71
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:80
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:89
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:97
+msgid "Blog Description"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:40
+msgid "Post Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:40
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:63
+msgid "Category Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:41
+msgid "Tag Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:42
+msgid "Post's Author Nicename"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:43
+msgid "Post's Author First Name"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:44
+msgid "Post's Author Last Name"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:47
+msgid "Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:50
+msgid "Choose Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:52
+msgid "Page Title"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:53
+msgid "Page's Author Nicename"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:54
+msgid "Page's Author First Name"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:55
+msgid "Page's Author Last Name"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:58
+msgid "Category Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:61
+msgid "Choose Category Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:63
+msgid "Category Description"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:66
+msgid "Archive Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:69
+msgid "Choose Archieve Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:72
+msgid "Default Date"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:75
+msgid "Tag Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:78
+msgid "Choose Tag Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:81
+msgid "The name of the tag"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:84
+msgid "Search Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:87
+msgid "Choose Search Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:90
+msgid "What was searched for"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:93
+msgid "404 Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:96
+msgid "Choose 404 Page Title Format"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:142
+msgid "Metadata and others"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:145
+msgid "Canonical URLs"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:145
+msgid ""
+"This option will automatically generate Canonical URLS for your entire "
+"WordPress installation. This will help to prevent duplicate content "
+"penalties by Google."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:146
+msgid "Use noindex for Categories"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:146
+msgid ""
+"Check this for excluding category pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:147
+msgid "Use noindex for Archives"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:147
+msgid ""
+"Check this for excluding archive pages from being crawled. Useful for "
+"avoiding duplicate content."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:148
+msgid "Use noindex for Tag Archives"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:148
+msgid ""
+"Check this for excluding tag pages from being crawled. Useful for avoiding "
+"duplicate content."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:149
+msgid "Use Tags for META keywords"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:149
+msgid ""
+"Check this if you want your tags for a given post used as the META keywords "
+"(in addition to any keywords you specify on the post edit page)."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:151
+msgid "Autogenerate Descriptions"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:151
+msgid ""
+"Check this and your META descriptions will get autogenerated for post and "
+"page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:153
+msgid "Use Categories for META keywords"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/seo.php:153
+msgid ""
+"Check this if you want your categories for a given post used as the META "
+"keywords (in addition to any keywords and tags you specify on the post edit "
+"page)."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:38
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:53
+msgid "Appearance"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:39
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:54
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/skins.php:6
+msgid "Skins"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:40
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:55
+msgid "Integration"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:41
+msgid "SEO"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:42
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:56
+msgid "Speciality Pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:44
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:58
+msgid "Widget Area"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:45
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:59
+msgid "WooCommerce"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:46
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:60
+msgid "Responsive &amp; Mobile"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:47
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:61
+msgid "Branding"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:80
+msgid "Import Dummy Data"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/settings.php:100
+msgid "Reset All"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/skins.php:16
+msgid "Current Skin"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/skins.php:28
+msgid "Available Skins"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:7
+msgid "Archives"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:9
+msgid "404"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:17
+msgid "Archives Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:18
+msgid ""
+"You can choose between a left, right or no sidebar layout for the Archive "
+"page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:21
+msgid "Your archive results will use the layout you select below."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:24
+msgid "Archives Background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:25
+msgid "Archives background image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:26
+msgid "Upload an image for the theme's Archives page background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:29
+msgid "Archives Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:30
+msgid ""
+"Pick a custom color for background color of the theme's archive page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:33
+msgid "Search Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:34
+msgid ""
+"You can choose between a left, right or no sidebar layout for your Search "
+"page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:37
+msgid "Your Search results will use the layout you select below."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:39
+msgid "Search Background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:40
+msgid "Search background image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:41
+msgid "Upload an image for the theme's Search page background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:44
+msgid "Search Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:45
+msgid ""
+"Pick a custom color for background color of the theme's search page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:49
+msgid "404 Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:50
+msgid ""
+"You can choose between a left, right or no sidebar layout for your 404 page."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:52
+msgid "404 Background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:53
+msgid "404 background image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:54
+msgid "Upload an image for the theme's 404 page background"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:57
+msgid "404 Background Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:58
+msgid ""
+"Pick a custom color for background color of the theme's 404 page.(e.g. "
+"#a314a3)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:60
+msgid "404 Message"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:61
+msgid "You can give custom 404 page message"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:93
+msgid "Three post per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:109
+msgid "Portfolio archives & Related gallery Post design"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:111
+msgid ""
+"Your archives & related gallery posts will use the shape you select below."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:137
+msgid "404 Custom Message"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:143
+msgid "Disable Font Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:147
+msgid "Enable / Disable 404 Font settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:153
+msgid "Message Font"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:160
+msgid "Message Font Color"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:163
+msgid ""
+"Pick a custom color for 404 message font color of the theme e.g. #a314a3"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/specialty-pages.php:169
+msgid "Message Font Size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:6
+msgid "Pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:7
+msgid "Posts"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:8
+msgid "Categories"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:11
+msgid "Products Category"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:12
+msgid "Products Tag"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:21
+msgid "Add new widget areas for pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:25
+msgid "Select a PAGE that should receive a new widget area:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:50
+msgid "Add new widget areas for posts"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:54
+msgid "Select a POST that should receive a new widget area:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:78
+msgid "Add new widget areas for categories"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:82
+msgid "Select a CATEGORY that should receive a new widget area:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:107
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:135
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:163
+msgid "Add new widget area for product"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:111
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:167
+msgid "Select a PRODUCT that should receive a new widget area:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/widgetarea.php:139
+msgid "Select a product's category that should receive a new widget area:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:6
+msgid "wooCommerce Settings"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:16
+msgid "Shop"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:19
+msgid "Products Per Page"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:22
+msgid "Number of porducts to show in catalog / shop page"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:27
+msgid "Choose the Product Layout Style in Catalog / Shop "
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:31
+msgid "Two products per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:31
+msgid "Three products per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:31
+msgid "Four products per row."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:45
+msgid "Product Detail"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:49
+msgid "Choose the Product Page Layout"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:67
+msgid "Product Category"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:71
+msgid "Choose the Product category page layout Style"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:90
+msgid "Product Tag"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:94
+msgid "Choose the Product tag page layout Style"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:112
+msgid "Warning"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_options/woocommerce.php:113
+msgid ""
+"You have to install and activate the wooCommerce plugin to use this module .."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:6
+msgid " Flickr Widget"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:19
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:23
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:27
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:21
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:23
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:29
+msgid "Title:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:23
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:27
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:53
+msgid "How many entries do you want to show:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:35
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:45
+msgid "What pictures to display"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:37
+msgid "Latest"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:37
+msgid "Random"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:47
+msgid "square"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:47
+msgid "thumbnail"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/flickr.php:47
+msgid "medium"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:10
+msgid " Gallery"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:28
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:28
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:41
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:39
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:41
+msgid "Display title only or title &amp; excerpt"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:51
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:49
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:51
+msgid "Show Image"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:53
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:53
+msgid "No.of posts to show:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/gallery_widget.php:116
+msgid "No Gallery Entries found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:11
+msgid " Mailchimp Newsletter Widget"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:31
+msgid "Select List:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:41
+msgid "Paste your mailchimp api key in BPanel at General Settings tab"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:72
+msgid ""
+"Success!&nbsp; Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/mailchimp.php:75
+msgid "Error:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:10
+msgid " Pages"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:26
+msgid "Choose the pages you want to display (multiple selection possible)"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_pages.php:105
+msgid "No Pages found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:10
+msgid " Posts"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/recent_posts.php:109
+msgid "No Posts found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/social_widget.php:6
+msgid " Footer Social Widget"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/social_widget.php:6
+msgid "Social Profile Widget."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/social_widget.php:28
+msgid "Please add social icons in general settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/social_widget.php:32
+msgid "Please enable social icons in general settings."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:10
+msgid " Twitter Widget"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:15
+msgid "Latest Tweets"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:33
+msgid "Consumer Key:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:37
+msgid "Consumer Secret:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:41
+msgid "Access Token:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:45
+msgid "Access Token Secret:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:49
+msgid "Enter your twitter username:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:62
+msgid "Exclude @replies"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:65
+msgid "Show time of tweet"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:68
+msgid "Show user avatar"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/theme_widgets/twitter.php:145
+msgid "No public Tweets found"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:259
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:417
+msgid "Sale!"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:262
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/woocommerce/index.php:420
+msgid "Out of Stock"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:42
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:67
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:72
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:262
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:134
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:143
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:194
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:198
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:505
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: E:\wamp\www\kidszone\wp-content\themes\kidszone/framework/wordpress-importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
